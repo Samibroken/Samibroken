@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @Samibroken
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Samibroken/Samibroken is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+.. pkg update
+.. pkg upgrade
+.. pip2 install requests
+.. pip2 install mechanize
+.. pkg install python
+.. pkg install python2
+.. pkg install git
+.. git clone https://github.com/Samibroken
+.. Is
+.. cd samibroken
+.. python2 samibroken.py
